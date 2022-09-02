@@ -1,3 +1,5 @@
+Proje Ekran Görüntüsü:
+![Proje Resmi](https://github.com/ekinkarada/react_to_do_list/blob/main/todolist.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
